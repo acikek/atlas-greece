@@ -98,7 +98,6 @@
         {
           "priority": [
             "otbyg:black_forest",
-            "terralith:shield",
             "minecraft:old_growth_spruce_taiga"
           ],
           "color": 7359540
@@ -145,7 +144,7 @@
         },
         {
           "priority": [
-            "terralith:caldera",
+            "terralith:volcanic_crater",
             "terrestria:volcanic_island",
             "minecraft:basalt_deltas"
           ],
