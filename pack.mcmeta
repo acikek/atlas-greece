@@ -1,6 +1,21 @@
 {
     "pack": {
         "pack_format": 10,
-        "description": "A dimension focused on the Peloponnese. Powered by Atlas"
+        "description": [
+            { 
+                "text": "A dimension focused on the Peloponnese. Uses ",
+                "italic": true
+            },
+            {
+                "text": "ATLAS",
+                "bold": true,
+                "italic": true,
+                "color": "blue"
+            },
+            {
+                "text": ".",
+                "italic": true
+            }
+        ]
     }
 }
